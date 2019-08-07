@@ -1,0 +1,14 @@
+Machine Learning,Deep Learning,R Language,Python Language,NLP
+linear regression,neural networks,R,python,nlp
+logistic regression,keras,ggplot,flask,topic modeling
+K means,theano,shiny,django,lda
+random forest,face detection,cran,pandas,NER
+xgboost,neural networks,dplyr,numpy,pos tagging
+svm,CNN,tidyr,scikitlearn,word2vec
+naive bayes,recurrent neural network(RNN),lubridate,sklearn,word embedding
+pca,object detection,knitr,matplotlib,lsi
+decison trees,yolo,,scipy,spacy
+svd,gpu,,bokeh,genism
+,,,,nltk
+,,,,nmf
+,,,,bag of words
